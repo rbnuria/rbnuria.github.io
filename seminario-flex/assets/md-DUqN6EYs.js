@@ -1,0 +1,8 @@
+import{L as e,T as t,X as n,_ as r,_t as i,b as a,g as o,ht as s,x as c}from"./modules/shiki-BK48RdLx.js";import{nt as l,rt as u}from"./index-Ckqu1n_h.js";import{t as d}from"./slidev/CodeBlockWrapper-DdUOOHTW.js";import{t as f}from"./slidev/default-Bw2qjqQ7.js";var p={__name:`slides.md__slidev_9`,setup(p){let{$slidev:m,$nav:h,$clicksContext:g,$clicks:_,$page:v,$renderContext:y,$frontmatter:b}=u();return g.setup(),(u,p)=>{let m=d;return e(),r(f,i(t(s(l)(s(b),8))),{default:n(()=>[p[1]||=o(`div`,{class:`eyebrow`},`Seminario FLEX`,-1),p[2]||=o(`h1`,null,`Declaraciones y definiciones`,-1),c(m,{title:``,ranges:[]},{default:n(()=>[...p[0]||=[o(`pre`,{class:`shiki shiki-themes vitesse-dark vitesse-light slidev-code`,style:{"--shiki-dark":`#dbd7caee`,"--shiki-light":`#393a34`,"--shiki-dark-bg":`#121212`,"--shiki-light-bg":`#ffffff`}},[o(`code`,{class:`language-text`},[o(`span`,{class:`line`},[o(`span`,null,`%option c++ noyywrap`)]),a(`
+`),o(`span`,{class:`line`},[o(`span`,null,`%{`)]),a(`
+`),o(`span`,{class:`line`},[o(`span`,null,`#include <iostream>`)]),a(`
+`),o(`span`,{class:`line`},[o(`span`,null,`#include <fstream>`)]),a(`
+`),o(`span`,{class:`line`},[o(`span`,null,`%}`)]),a(`
+`),o(`span`,{class:`line`},[o(`span`,null,`DIGITO  [0-9]`)]),a(`
+`),o(`span`,{class:`line`},[o(`span`,null,`ID      [a-zA-Z_][a-zA-Z0-9_]*`)]),a(`
+`),o(`span`,{class:`line`},[o(`span`,null,`DECIMAL {DIGITO}+"."{DIGITO}+`)])])],-1)]]),_:1}),p[3]||=o(`p`,null,[a(`El bloque `),o(`code`,null,`%{ ... %}`),a(` incorpora código C++ al fichero generado.`)],-1),p[4]||=o(`p`,null,[a(`Las definiciones se reutilizan con llaves: `),o(`code`,null,`{DIGITO}`),a(`.`)],-1)]),_:1},16)}}};export{p as default};
