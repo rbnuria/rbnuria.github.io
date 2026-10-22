@@ -1,5 +1,0 @@
-import{L as e,T as t,X as n,_ as r,_t as i,g as a,ht as o}from"./modules/shiki-C0R7LaqV.js";import{et as s,tt as c}from"./index-D6g9UbQE.js";import{t as l}from"./slidev/default-DMUTPjrE.js";var u={__name:`slides.md__slidev_39`,setup(u){let{$slidev:d,$nav:f,$clicksContext:p,$clicks:m,$page:h,$renderContext:g,$frontmatter:_}=c();return p.setup(),(c,u)=>(e(),r(l,i(t(o(s)(o(_),38))),{default:n(()=>[...u[0]||=[a(`div`,{class:`eyebrow`},`03 · Igualdad de lenguajes`,-1),a(`h1`,null,`Igualdad de lenguajes: procedimiento`,-1),a(`pre`,null,`P ← producto de M₁ y M₂
-inicial de P ← (q₀₁, q₀₂)
-finales de P ← parejas con exactamente un final
-si L(P) es vacío: devolver «iguales»
-si no: devolver «distintos» y una palabra testigo`,-1),a(`div`,{class:`note`},`Usamos AFD completos sobre el mismo alfabeto. Si faltan transiciones, añadimos un sumidero. Para AFN, determinizamos primero.`,-1),a(`p`,{class:`small`},`A lo sumo |Q₁|·|Q₂| parejas. Si la pareja inicial es final del producto, ε ya distingue los lenguajes.`,-1)]]),_:1},16))}};export{u as default};
