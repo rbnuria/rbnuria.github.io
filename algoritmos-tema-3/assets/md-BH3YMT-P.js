@@ -1,0 +1,6 @@
+import{L as e,T as t,X as n,_ as r,_t as i,g as a,ht as o}from"./modules/shiki-C0R7LaqV.js";import{et as s,tt as c}from"./index-D6g9UbQE.js";import{t as l}from"./slidev/default-DMUTPjrE.js";var u={__name:`slides.md__slidev_21`,setup(u){let{$slidev:d,$nav:f,$clicksContext:p,$clicks:m,$page:h,$renderContext:g,$frontmatter:_}=c();return p.setup(),(c,u)=>(e(),r(l,i(t(o(s)(o(_),20))),{default:n(()=>[...u[0]||=[a(`div`,{class:`eyebrow`},`02 · Lenguaje finito o infinito`,-1),a(`h1`,null,`Finito o infinito: procedimiento`,-1),a(`pre`,null,`R ← alcanzables desde q₀
+C ← alcanzables desde F en el grafo inverso
+U ← R ∩ C
+Gᵤ ← subgrafo que conserva solo estados de U
+si Gᵤ tiene un ciclo: devolver «infinito»
+si no: devolver «finito»`,-1),a(`div`,{class:`note`},`Podemos detectar ciclos con DFS y estados en exploración. Si U = ∅, el lenguaje es vacío y, por tanto, finito.`,-1),a(`p`,{class:`small`},`Coste: O(|Q| + |E|). Sin ciclos útiles, un camino aceptado no repite estados.`,-1)]]),_:1},16))}};export{u as default};
